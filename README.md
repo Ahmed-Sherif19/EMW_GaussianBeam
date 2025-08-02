@@ -54,14 +54,14 @@ gaussian-beam-propagation/
 ├── docs/
 │   └── Waves_Project_Report.pdf       # Technical report
 ├── output/
-│   ├── figures/
+│   ├── Figures/
 │   │   ├── fig1_initial.png           # Initial beam
 │   │   ├── fig2a_z0.png              # At z=z₀
 │   │   ├── fig2b_2z0.png             # At z=2z₀
 │   │   ├── fig3_0.5f.png             # After lens z=0.5f
 │   │   ├── fig4_f.png                # At focal point
 │   │   └── fig5_2f.png               # After focus z=2f
-│   └── animation/
+│   └── Animation/
 │       └── complete_beam_propagation.avi
 └── README.md
 ```
@@ -85,11 +85,12 @@ gaussian-beam-propagation/
 ## 📚 Documentation
 
 - [Technical Report](docs/Waves_Project_Report.pdf) - Complete analysis and results
-- [Animation Demo](output/animation/complete_beam_propagation.avi) - Beam evolution visualization
+- [Animation Demo](output/Animation/complete_beam_propagation.avi) - Beam evolution visualization
 
 ## 📖 References
 
 [1] D. M. Pozar, *Microwave Engineering*, 4th ed. Hoboken, NJ, USA: Wiley, 2011.  
 [2] F. T. Ulaby and U. Ravaioli, *Fundamentals of Applied Electromagnetics*, 7th ed. Boston, MA, USA: Pearson, 2014.
+
 
 
